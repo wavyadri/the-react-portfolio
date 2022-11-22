@@ -140,7 +140,7 @@ export const projects = [
   },
   {
     id: 17,
-    image: '/images/scheduler.png',
+    image: '/images/gift_guide.png',
     title: 'Gift Guide',
     description: 'CRUD Gift List and Reviews with PERN Stack',
     category: 'Node/Express',

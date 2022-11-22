@@ -11,7 +11,14 @@ import {
   FaGit,
 } from 'react-icons/fa';
 import { FiFigma } from 'react-icons/fi';
-import { SiJavascript, SiTypescript, SiVisualstudio } from 'react-icons/si';
+import {
+  SiJavascript,
+  SiTypescript,
+  SiVisualstudio,
+  SiGo,
+  SiRuby,
+  SiPostgresql,
+} from 'react-icons/si';
 
 const About = () => {
   return (
@@ -45,9 +52,6 @@ const About = () => {
                 <FaReact className='about-icon' />
               </li>
               <li>
-                <FaNode className='about-icon' />
-              </li>
-              <li>
                 <FaHtml5 className='about-icon' />
               </li>
               <li>
@@ -58,6 +62,18 @@ const About = () => {
               </li>
               <li>
                 <FiFigma className='about-icon' />
+              </li>
+              <li>
+                <FaNode className='about-icon' />
+              </li>
+              <li>
+                <SiGo className='about-icon' />
+              </li>
+              <li>
+                <SiRuby className='about-icon' />
+              </li>
+              <li>
+                <SiPostgresql className='about-icon' />
               </li>
               <li>
                 <SiVisualstudio className='about-icon' />
