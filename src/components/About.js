@@ -31,7 +31,7 @@ const About = () => {
           <div className='about-me'>
             <h2>About</h2>
             <p>
-              Hey there! I am Adriana, a front-end developer based in Canada. My
+              Hey there! I am Adriana, a software developer based in Canada. My
               greatest strength as a developer is my ability to problem solve. I
               genuinely find the challenge of tackling new projects to be fun,
               am fascinted by how many different ways we can solve the same

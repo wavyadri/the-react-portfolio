@@ -1,15 +1,6 @@
 export const projects = [
-  // {
-  //     id: 1,
-  //     image: '/images/quotes.png',
-  //     title: 'random quotes generator',
-  //     description: 'API generated random quotes with preloader',
-  //     category: 'javascript',
-  //     url: 'https://vibrant-visvesvaraya-8c3b76.netlify.app/',
-  //     code: 'https://github.com/wavyadri/freeCodeCamp-Basic-JavaScript/tree/main/projects/front%20end%20libraries/random%20quote%20js',
-  // },
   {
-    id: 2,
+    id: 1,
     image: '/images/wealthify.png',
     title: 'Wealthify - stocks/crypto trading simulation',
     description:
@@ -18,22 +9,22 @@ export const projects = [
     code: 'https://github.com/wavyadri/wealthify',
   },
   {
-    id: 8,
+    id: 2,
     image: '/images/tweeter.png',
     title: 'Tweeter App, a twitter clone',
     description: 'User generated tweets posted to a feed with AJAX',
     category: 'Node/Express',
     code: 'https://github.com/wavyadri/tweeter',
   },
-  // {
-  //     id: 3,
-  //     image: '/images/cocacola.png',
-  //     title: 'product website',
-  //     description: 'product feature page with image slider',
-  //     category: 'HTML/CSS',
-  //     url: 'https://silly-panini-ba6b31.netlify.app/',
-  //     code: 'https://github.com/wavyadri/Coca-Cola-Website',
-  // },
+  {
+    id: 3,
+    image: '/images/flight_widget.png',
+    title: 'Flight Widget',
+    description: 'Vanilla JS and CSS Animated Flight Departures Board',
+    category: 'HTML/CSS',
+    url: 'https://courageous-paprenjak-422f88.netlify.app/',
+    code: 'https://github.com/wavyadri/flight_widget',
+  },
   {
     id: 4,
     image: '/images/netflix.png',
@@ -52,26 +43,8 @@ export const projects = [
     url: 'https://angry-brown-2c67f4.netlify.app/',
     code: 'https://github.com/wavyadri/Loruki-Website',
   },
-  //   {
-  //     id: 6,
-  //     image: '/images/sign-up.png',
-  //     title: 'sign up form',
-  //     description: 'form validation and error counter',
-  //     category: 'javascript',
-  //     url: 'https://vibrant-clarke-f8afc0.netlify.app/',
-  //     code: 'https://github.com/wavyadri/JS-Projects/tree/main/FORMS/Form%20Validation',
-  //   },
-  //   {
-  //     id: 7,
-  //     image: '/images/shopping-list.png',
-  //     title: 'shopping list',
-  //     description: 'CRUD list with JSON server',
-  //     category: 'javascript',
-  //     url: 'https://distracted-hawking-24a274.netlify.app/',
-  //     code: 'https://github.com/wavyadri/JS-Projects/tree/main/LISTS/Shop%20List%202.0',
-  //   },
   {
-    id: 9,
+    id: 6,
     image: '/images/eat-app.png',
     title: 'meal delivery app',
     description: 'meal delivery mobile app',
@@ -79,7 +52,7 @@ export const projects = [
     url: 'https://xd.adobe.com/view/f6c355e4-9d72-4d73-ba84-506f5e4ced4c-a390/?fullscreen',
   },
   {
-    id: 10,
+    id: 7,
     image: '/images/hike.png',
     title: 'hiking website',
     description: 'multi page website',
@@ -87,7 +60,7 @@ export const projects = [
     url: 'https://xd.adobe.com/view/1c2e4d6c-afe0-467c-9fbb-8c42897cfa07-497d/?fullscreen',
   },
   {
-    id: 11,
+    id: 8,
     image: '/images/wine.png',
     title: 'wine shop',
     description: 'e-commerce product slider',
@@ -95,7 +68,7 @@ export const projects = [
     url: 'https://xd.adobe.com/view/310ae8a0-c2e1-4e36-8dc7-f44d77a626e7-6459/?fullscreen',
   },
   {
-    id: 12,
+    id: 9,
     image: '/images/colour.png',
     title: 'web services website',
     description: 'gradient mobile responsive website',
@@ -104,7 +77,7 @@ export const projects = [
     code: 'https://github.com/wavyadri/Colours-Website',
   },
   {
-    id: 13,
+    id: 10,
     image: '/images/cocktails.png',
     title: 'cocktail API search with react',
     description: 'API generated search bar with react router',
@@ -113,7 +86,7 @@ export const projects = [
     code: 'https://github.com/wavyadri/cocktail-search',
   },
   {
-    id: 14,
+    id: 11,
     image: '/images/pizza-maker.png',
     title: 'custom pizza maker with shopping cart in react',
     description: 'Custom topping picker with useReducer checkout cart',
@@ -122,7 +95,7 @@ export const projects = [
     code: 'https://github.com/wavyadri/pizza-maker',
   },
   {
-    id: 15,
+    id: 12,
     image: '/images/tinyapp.png',
     title: 'TinyApp - a bit.ly clone',
     description: 'HTTP server which allows logged in users to shorten URLs',
@@ -130,7 +103,7 @@ export const projects = [
     code: 'https://github.com/wavyadri/tinyapp',
   },
   {
-    id: 16,
+    id: 13,
     image: '/images/scheduler.png',
     title: 'Scheduling app to book or cancel interviews',
     description:
@@ -139,7 +112,7 @@ export const projects = [
     code: 'https://github.com/wavyadri/Scheduler',
   },
   {
-    id: 17,
+    id: 14,
     image: '/images/gift_guide.png',
     title: 'Gift Guide',
     description: 'CRUD Gift List and Reviews with PERN Stack',
