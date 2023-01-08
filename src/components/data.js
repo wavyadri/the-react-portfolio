@@ -85,6 +85,41 @@ export const projects = [
     url: 'https://happy-meninsky-63ab5d.netlify.app/',
     code: 'https://github.com/wavyadri/cocktail-search',
   },
+  {
+    id: 11,
+    image: '/images/tinyapp.png',
+    title: 'TinyApp - a bit.ly clone',
+    description: 'HTTP server which allows logged in users to shorten URLs',
+    category: 'Node/Express',
+    code: 'https://github.com/wavyadri/tinyapp',
+  },
+  {
+    id: 12,
+    image: '/images/scheduler.png',
+    title: 'Scheduling app to book or cancel interviews',
+    description:
+      'Book or cancel interviews with Jest, Cypress & Storybook testing',
+    category: 'react',
+    code: 'https://github.com/wavyadri/Scheduler',
+  },
+  {
+    id: 13,
+    image: '/images/gift_guide.png',
+    title: 'Gift Guide',
+    description: 'CRUD Gift List and Reviews with PERN Stack',
+    category: 'Node/Express',
+    code: 'https://github.com/wavyadri/gift_guide',
+  },
+  {
+    id: 14,
+    image: '/images/wave-check.png',
+    title: 'Wave Check',
+    description:
+      'Compare surf reports of two locations using Google Places API and forecast api',
+    category: 'react',
+    // url: 'https://hardcore-tereshkova-ed717b.netlify.app/'
+    code: 'https://github.com/wavyadri/wave-check',
+  },
   // {
   //   id: 11,
   //   image: '/images/pizza-maker.png',
@@ -94,29 +129,4 @@ export const projects = [
   //   url: 'https://hardcore-tereshkova-ed717b.netlify.app/',
   //   code: 'https://github.com/wavyadri/pizza-maker',
   // },
-  {
-    id: 12,
-    image: '/images/tinyapp.png',
-    title: 'TinyApp - a bit.ly clone',
-    description: 'HTTP server which allows logged in users to shorten URLs',
-    category: 'Node/Express',
-    code: 'https://github.com/wavyadri/tinyapp',
-  },
-  {
-    id: 13,
-    image: '/images/scheduler.png',
-    title: 'Scheduling app to book or cancel interviews',
-    description:
-      'Book or cancel interviews with Jest, Cypress & Storybook testing',
-    category: 'react',
-    code: 'https://github.com/wavyadri/Scheduler',
-  },
-  {
-    id: 14,
-    image: '/images/gift_guide.png',
-    title: 'Gift Guide',
-    description: 'CRUD Gift List and Reviews with PERN Stack',
-    category: 'Node/Express',
-    code: 'https://github.com/wavyadri/gift_guide',
-  },
 ];
