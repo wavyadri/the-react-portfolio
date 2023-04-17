@@ -10,11 +10,13 @@ export const projects = [
   },
   {
     id: 2,
-    image: '/images/tweeter.png',
-    title: 'Tweeter App, a twitter clone',
-    description: 'User generated tweets posted to a feed with AJAX',
+    image: '/images/dnn.png',
+    title: 'Digital Nomad News API',
+    description:
+      'Webscraping API of recent headlines from major news sources about digital nomads',
     category: 'Node/Express',
-    code: 'https://github.com/wavyadri/tweeter',
+    url: 'https://rapidapi.com/adrianacalvomatos-ETByw36Ss9m/api/digital-nomad-news',
+    code: 'https://github.com/wavyadri/dnn-api',
   },
   {
     id: 3,
@@ -115,18 +117,9 @@ export const projects = [
     image: '/images/wave-check.png',
     title: 'Wave Check',
     description:
-      'Compare surf reports of two locations using Google Places API and forecast api',
+      'Compare surf reports of two locations using Google Places API and forecast API',
     category: 'react',
     // url: 'https://hardcore-tereshkova-ed717b.netlify.app/'
     code: 'https://github.com/wavyadri/wave-check',
   },
-  // {
-  //   id: 11,
-  //   image: '/images/pizza-maker.png',
-  //   title: 'custom pizza maker with shopping cart in react',
-  //   description: 'Custom topping picker with useReducer checkout cart',
-  //   category: 'react',
-  //   url: 'https://hardcore-tereshkova-ed717b.netlify.app/',
-  //   code: 'https://github.com/wavyadri/pizza-maker',
-  // },
 ];
