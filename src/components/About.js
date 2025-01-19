@@ -1,8 +1,6 @@
 import React from 'react';
 import Adriana from './adriana.jpg';
-import resume from '../files/AdrianaCalvoMatos-Resume.pdf';
 import {
-  FaFileDownload,
   FaHtml5,
   FaCss3Alt,
   FaSass,
@@ -34,7 +32,7 @@ const About = () => {
               Hey there! I am Adriana, a software developer based in Canada. My
               greatest strength as a developer is my ability to problem solve. I
               genuinely find the challenge of tackling new projects to be fun,
-              am fascinted by how many different ways we can solve the same
+              am fascinated by how many different ways we can solve the same
               problem and am hooked on the feeling of satisfaction I get once I
               solve a bug.
             </p>
@@ -82,14 +80,6 @@ const About = () => {
                 <FaGit className='about-icon' />
               </li>
             </ul>
-          </div>
-          <div className='about-resume'>
-            <h3>My Resume</h3>
-            <div className='about-resume-icon'>
-              <a href={resume} target='_blank' rel='noreferrer'>
-                <FaFileDownload className='about-icon about-download' />
-              </a>
-            </div>
           </div>
         </div>
       </div>
